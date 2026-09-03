@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AppConsoleExercicio6/AppConsoleExercicio6VetorNumeros.csproj" Id="0a2da552-961d-40ff-9486-cb2c64feef3f" />
   <Project Path="AppExercicio2FaixaEtaria/AppExercicio2FaixaEtaria.csproj" />
   <Project Path="AppExercicio3Validacao/AppExercicio3Validacao.csproj" />
   <Project Path="AppExercicioRevisaoLogica/AppExercicioRevisaoLogica.csproj" />
